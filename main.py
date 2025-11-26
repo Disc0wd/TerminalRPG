@@ -1,7 +1,3 @@
-import characters
-print(characters.__file__)
-
-
 from characters import Character
 from grid import generate_grid, print_grid
 import random
